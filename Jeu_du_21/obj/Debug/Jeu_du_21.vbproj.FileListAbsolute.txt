@@ -1,0 +1,13 @@
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.vbprojAssemblyReference.cache
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.frmMenu.resources
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.Resources.resources
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.vbproj.GenerateResource.cache
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.vbproj.CoreCompileInputs.cache
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\bin\Debug\Jeu_du_21.exe.config
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\bin\Debug\Jeu_du_21.exe
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\bin\Debug\Jeu_du_21.pdb
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\bin\Debug\Jeu_du_21.xml
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.exe
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.xml
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.pdb
+C:\Users\samysabr\Desktop\ICS\Jeu_du_21\Jeu_du_21\obj\Debug\Jeu_du_21.FrmJeu21.resources
